@@ -1,0 +1,103 @@
+{
+  "JSON": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify"
+    ],
+    "quotes": "double",
+    "indent_size": "4"
+  },
+  "JSX": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify"
+    ],
+    "quotes": "double",
+    "indent_size": "4"
+  },
+  "HTML": {
+    "beautifiers": [
+      "Pretty Diff",
+      "JS-Beautify"
+    ],
+    "quotes": "double",
+    "indent_size": "4",
+    "indent_inner_html": true
+  },
+  "HTML+ERB": {
+    "beautifiers": [
+      "Pretty Diff"
+    ],
+    "quotes": "double",
+    "indent_size": "4"
+  },
+  "PHP": {
+    "beautifiers": [
+      "PHP-CS-Fixer"
+    ]
+  },
+  "SCSS": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff"
+    ],
+    "indent_size": "4",
+    "quotes": "double"
+  },
+  "CSS": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify"
+    ],
+    "quotes": "double",
+    "indent_size": "4"
+  },
+  "EJS": {
+    "beautifiers": [
+      "Pretty Diff",
+      "JS-Beautify"
+    ],
+    "quotes": "double",
+    "indent_size": "4"
+  },
+  "GraphQL": {
+    "beautifiers": [
+      "Prettier"
+    ],
+    "quotes": "double",
+    "indent_size": "4"
+  },
+  "JavaScript": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify",
+      "ESLint"
+    ],
+    "end_with_comma": true,
+    "indent_size": "4",
+    "quotes": "double",
+    "break_chained_methods": true,
+    "multiline_ternary": "never"
+  },
+  "TypeScript": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff"
+    ],
+    "indent_size": "4",
+    "quotes": "double"
+  },
+  "XML": {
+    "beautifiers": [
+      "Pretty Diff",
+      "JS-Beautify"
+    ],
+    "indent_size": "4",
+    "quotes": "double",
+    "indent_inner_html": true
+  }
+}
